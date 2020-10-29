@@ -11,7 +11,7 @@ while x - i >= i:
         k = 1
         break
 if k == 1:
-  c = True
+  is_palindrom = True
 else:
-  c = False
+  is_palindrom = False
 print(c)
